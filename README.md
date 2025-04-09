@@ -21,5 +21,10 @@ Em construção
 
 ### Pré-requisitos
 
+📫 Contato
+Se quiser falar comigo, mande um e-mail ou me chame no LinkedIn.
+
+Desenvolvido com ❤️ usando Streamlit.
+
 - Python 3.8 ou superior
 - pip
