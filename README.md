@@ -1,10 +1,9 @@
-
-```markdown
-# 🧠 Personal Website - Data Analysis Portfolio
+# 🧠 Personal Website - Portfolio
 
 This is my personal website built with [Streamlit](https://streamlit.io/), where I share my project portfolio as a data analyst and publish content related to technology and more.
 
-📄 [Versão em português](README.pt.md)
+📄 [Versão em português](README.md)
+
 
 ## 🔗 Visit the Website
 
@@ -33,10 +32,11 @@ git clone https://github.com/folopes/portfolio_st.git
 cd portfolio_st
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-📫 Contact
+## 📫 Contact
 If you'd like to get in touch, send me an email or connect on LinkedIn.
 
-LinkedIn (https://www.linkedin.com/in/fabiano-lopes79/)
-📧 folopes@gmail.com
+[LinkedIn](https://www.linkedin.com/in/fabiano-lopes79/)
 
+📧 folopes@gmail.com
