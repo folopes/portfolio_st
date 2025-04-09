@@ -1,33 +1,42 @@
-# 🧠 Site Pessoal - Portfólio de Análise de Dados
 
-Este é meu site pessoal desenvolvido com [Streamlit](https://streamlit.io/), onde compartilho meu portfólio de projetos como analista de dados e publico alguns conteúdos sobre tecnologia e muito mais.
+```markdown
+# 🧠 Personal Website - Data Analysis Portfolio
 
-## 🔗 Acesse o site
+This is my personal website built with [Streamlit](https://streamlit.io/), where I share my project portfolio as a data analyst and publish content related to technology and more.
 
-Em construção
+📄 [Versão em português](README.pt.md)
 
----
+## 🔗 Visit the Website
 
-## ✨ Funcionalidades
-
-- Página inicial com apresentação pessoal
-- Portfólio com projetos públicos
-- Espaço para publicações e artigos
-- Navegação simples via menu lateral
+Under construction
 
 ---
 
-## 🛠️ Como rodar localmente
+## ✨ Features
 
-### Pré-requisitos
+- Home page with personal introduction
+- Portfolio with public projects
+- Space for publications and articles
+- Simple navigation with a sidebar menu
 
-- Python 3.8 ou superior
+---
+
+## 🛠️ How to Run Locally
+
+### Requirements
+
+- Python 3.8 or later
 - pip
 
-## 📫 Contato
-Se quiser falar comigo, mande um e-mail ou me chame no LinkedIn.
+```bash
+git clone https://github.com/folopes/portfolio_st.git
+cd portfolio_st
+pip install -r requirements.txt
+streamlit run app.py
 
-https://www.linkedin.com/in/fabiano-lopes79/ 
+📫 Contact
+If you'd like to get in touch, send me an email or connect on LinkedIn.
 
-folopes@gmail.com
+LinkedIn (https://www.linkedin.com/in/fabiano-lopes79/)
+📧 folopes@gmail.com
 
