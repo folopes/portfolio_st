@@ -2,7 +2,7 @@
 
 This is my personal website built with [Streamlit](https://streamlit.io/), where I share my project portfolio as a data analyst and publish content related to technology and more.
 
-📄 [Versão em português](README.pt.md)
+📄 [Versão em português](readme.pt.md)
 
 
 ## 🔗 Visit the Website
